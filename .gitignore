@@ -1,0 +1,16 @@
+# macOS meta-data
+*.DS_Store
+
+# Visual Studio Code
+.vscode
+.vs
+
+# Netbeans
+nbproject
+build/
+
+# Vim
+*.swp
+
+Forum
+build
